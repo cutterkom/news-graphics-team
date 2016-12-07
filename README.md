@@ -40,7 +40,7 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 * [Youyou Zhou](https://twitter.com/zhoyoyo)
 * ? 
 
-## BBC News Graphics
+## BCC News Graphics
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
 * [Amanda Farnsworth](https://twitter.com/farnsa)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
@@ -119,16 +119,7 @@ Vancouver, BC, Canada / [Website](http://discoursemedia.org)
 
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
-* [Alex Selby-Boothroyd](https://twitter.com/alexselbyb)
-* [Graham Douglas](https://twitter.com/graham_douglas)
-* [Evan Hensleigh](https://twitter.com/futuraprime)
-* [Sarah Leo](https://twitter.com/misssarahleo)
-* [Adam Meara](https://twitter.com/admeara)
-
-## eldiario.es
-Madrid, Spain / [Website](http://www.eldiario.es)  
-* [Belén Picazo](https://twitter.com/belenpicazo)
-* [Raúl Sánchez](https://twitter.com/raulsanchezglez)
+* ? 
 
 ## Financial Times Data
 London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
@@ -304,6 +295,16 @@ Switzerland / [@SRFData](https://twitter.com/srfdata) / [Website](http://www.srf
 * [Pascal Düblin](https://twitter.com/dublinpascal)
 * ? 
 
+## Süddeutsche Zeitung
+München, Germany / [@SZ](https://twitter.com/SZ), [Github](https://github.com/sueddeutsche)
+* [Hauke Bendt](https://twitter.com/haukebendt)
+* [Katharina Brunner](https://twitter.com/cutterkom)
+* [Sabrina Ebitsch](https://twitter.com/sebitsch)
+* Sascha Goldhofer
+* [Hannes Munzinger](https://twitter.com/h_munzinger)
+* [Martina Schories](https://twitter.com/mschories)
+* [Vanessa Wormer](https://twitter.com/remrow)
+
 ## Tagesspiegel Data
 Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 * [Philipp Bock](https://github.com/pbock)
@@ -349,6 +350,7 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 * [Paul Blickle](https://twitter.com/colorfuldata)
 * ?
 
+<br>
 ————
 
 ### People who liked that list also like… 
@@ -356,3 +358,5 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 - [OpenNews list of newsrooms, their code and how-to articles](https://source.opennews.org/en-US/organizations/)
 - [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
 - [Twitter account that tweets every time a newsroom opens a new Github repo](https://twitter.com/newsnerdrepos)
+
+
